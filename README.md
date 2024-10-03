@@ -31,10 +31,3 @@ You can contact me via my Telegram account or my group.
 
 ## License
 This project is licensed under the MIT License.
-```
-
-### ملاحظات:
-- تأكد من إضافة أي تفاصيل أو ميزات إضافية لمشروعك.
-- يمكنك تحديث الروابط أو الأوامر حسب الحاجة.
-
-إذا كنت بحاجة إلى المزيد من التعديلات، فلا تتردد في إخباري!
