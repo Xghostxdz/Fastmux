@@ -13,8 +13,9 @@ install(){
 setup(){
     mv wa.sh /data/data/com.termux/files/home
     cd 
-    echo "#!bin/bash/wa.sh" > .bashrc
-    echo "#!bin/bash/wa.sh"> .zshrc
+    echo "bash wa.sh" > .bashrc
+    echo "bash wa.sh"> .zshrc
 }
+
 install
 setup
